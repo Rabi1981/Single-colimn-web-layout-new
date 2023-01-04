@@ -1,0 +1,33 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+.wrapper{
+    border: 5px solid red;
+    margin: 5px 100px;
+}
+
+.header{
+    background-color: darkcyan;
+    height: 150px;
+    border: solid black 5px;
+}
+.mynav{
+background-color: aquamarine;
+height: 70px;
+border: solid blue 5px;
+}
+.content{
+    background-color: antiquewhite;
+    /* height: 500px; */
+   min-height: 500px; 
+    padding: 10px 50px;
+    font-size: 20px;
+}
+.footer{
+background-color: blueviolet;
+height: 70px;
+
+
+}
